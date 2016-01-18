@@ -5,6 +5,10 @@
     <title></title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css">
     <link rel="stylesheet" href="../style/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
 
 </head>
 <body class="StartupRegisterform">
@@ -15,17 +19,25 @@
     <h4>Register</h4>
     <form role="form">
 
-        <div class="form-group">
-            <input type="text" class="form-control" id="startupname" placeholder="Enter Company Name">
+        <div class="form-group input-field">
+            <input type="text" class="form-control" id="startupname" >
+            <label for="startupname"> Startup Name</label>
+
         </div>
-        <div class="form-group">
-            <input type="text" class="form-control" id="username" placeholder="Enter ContactPerson Name">
+        <div class="form-group input-field">
+            <input type="text" class="form-control" id="username">
+            <label for="username"> User Name</label>
+
         </div>
-        <div class="form-group">
-            <input type="email" class="form-control" id="email" placeholder="Enter Email">
+        <div class="form-group input-field">
+            <input type="email" class="form-control" id="email" >
+            <label for="email"> Email</label>
+
         </div>
-        <div class="form-group">
-            <input type="password" class="form-control" id="pwd" placeholder="Enter Password">
+        <div class="form-group input-field">
+            <input type="password" class="form-control" id="pwd" >
+            <label for="pwd"> Password</label>
+
         </div>
 
         <button type="submit" class="btn btn-default">Register</button>
