@@ -1,0 +1,137 @@
+[33mcommit 919ed730ad60468379d26e0e29ffaf604b3a4c13[m
+Merge: 5b74a08 6f9de4d
+Author: Anil Kumar Nayak <898anil@gmail.com>
+Date:   Wed Jan 20 12:04:45 2016 +0530
+
+    new files required
+    Merge branch 'master' of https://github.com/anilreddy4438/Gearup
+
+[33mcommit 6f9de4d4f5084484beca1678138efebd36882a25[m
+Author: anilreddy4438 <anilkumar190293@gmail.com>
+Date:   Wed Jan 20 12:03:07 2016 +0530
+
+    student & training & startup registration forms to master
+
+[33mcommit 5b74a083d42d3716b62b81b51ebe1146428757be[m
+Merge: 4d2a0f7 7700f96
+Author: Anil Kumar Nayak <898anil@gmail.com>
+Date:   Wed Jan 20 12:02:48 2016 +0530
+
+    Merge branch 'dashboard' of https://github.com/anilreddy4438/Gearup
+
+[33mcommit bcb3e077baf496081384659dcebc1808724b28c2[m
+Merge: 7700f96 4d2a0f7
+Author: anilreddy4438 <anilkumar190293@gmail.com>
+Date:   Wed Jan 20 11:58:18 2016 +0530
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 4d2a0f78bd80ef2a7f73f5913c0d2657a57a2cd8[m
+Merge: 787ac16 2ea274a
+Author: Anil Kumar Nayak <898anil@gmail.com>
+Date:   Wed Jan 20 11:52:52 2016 +0530
+
+    Merge branch 'master' of https://github.com/anilreddy4438/Gearup
+
+[33mcommit 787ac164f37f7bce1773ec145555d92f9d87f44d[m
+Author: Anil Kumar Nayak <898anil@gmail.com>
+Date:   Wed Jan 20 11:49:44 2016 +0530
+
+    initial commit
+
+[33mcommit 7700f96a4a0cdbb9c613b99eb3445d644f2aece5[m
+Author: anilreddy4438 <anilkumar190293@gmail.com>
+Date:   Tue Jan 19 17:20:41 2016 +0530
+
+    student & training & startup registration forms
+
+[33mcommit 2ea274af73be25b984c8d7014c0b637cc4f31452[m
+Author: anilreddy4438 <anilreddy4438@users.noreply.github.com>
+Date:   Mon Jan 18 15:03:42 2016 +0530
+
+    Delete html2.html
+
+[33mcommit f011caa9ef2af904e31e337a4bafa52b6b13f047[m
+Author: anilreddy4438 <anilreddy4438@users.noreply.github.com>
+Date:   Mon Jan 18 15:03:33 2016 +0530
+
+    Delete html1.html
+
+[33mcommit 1de0321b04121af9c049c1c4c63cd6514614fb30[m
+Author: anilreddy4438 <anilreddy4438@users.noreply.github.com>
+Date:   Mon Jan 18 15:03:25 2016 +0530
+
+    Delete html.html~
+
+[33mcommit cfbff5b22d79bd5d3ad7617dedcf70dd081bcf91[m
+Author: anilreddy4438 <anilreddy4438@users.noreply.github.com>
+Date:   Mon Jan 18 15:03:15 2016 +0530
+
+    Delete html.html
+
+[33mcommit 46c0fe69112dfd729254d09671c2ab1d6da85cd5[m
+Author: anilreddy4438 <anilkumar190293@gmail.com>
+Date:   Mon Jan 18 14:47:41 2016 +0530
+
+    student & training & startup registration forms
+
+[33mcommit 7d830650dfda3b04b71b6110de27bdfcb0ec84b4[m
+Author: anilreddy4438 <anilkumar190293@gmail.com>
+Date:   Mon Jan 18 12:15:21 2016 +0530
+
+    student & training & startup registration forms
+
+[33mcommit 6b9d86b1396346cff4098a1c94b48e71811999c5[m
+Author: anilreddy4438 <anilkumar190293@gmail.com>
+Date:   Mon Jan 18 11:05:14 2016 +0530
+
+    dashboard studentlogin and startuplogin and training login forms
+
+[33mcommit ad3bec1bd83e82588019353b7bd6d3d23138422c[m
+Author: Anil Kumar Nayak <898anil@gmail.com>
+Date:   Thu Jan 14 23:41:39 2016 +0530
+
+    dfgdfg
+
+[33mcommit 89a8b24343ae69d1910dd2c7e73f578c46e81576[m
+Author: Anil Kumar Nayak <898anil@gmail.com>
+Date:   Thu Jan 14 23:25:28 2016 +0530
+
+    i created two new files
+
+[33mcommit 07a7481b1be69255c056daf053b668f7b68ecef3[m
+Author: Anil Kumar Nayak <898anil@gmail.com>
+Date:   Thu Jan 14 23:21:58 2016 +0530
+
+    extra changes in the file
+
+[33mcommit 44d0e91e3e846dc6476cf0d83a4b29e68f356c88[m
+Merge: b4dd2ef 5ce5887
+Author: Anil Kumar Nayak <898anil@gmail.com>
+Date:   Thu Jan 14 23:15:47 2016 +0530
+
+    Merge branch 'master' of https://github.com/anilreddy4438/Gearup
+
+[33mcommit b4dd2efad9270c3f66667788cb08f12d683afff3[m
+Author: Anil Kumar Nayak <898anil@gmail.com>
+Date:   Thu Jan 14 23:14:18 2016 +0530
+
+    created a new html file
+
+[33mcommit 4738f2fad6599eea08bf85b6add2884558a3af8b[m
+Author: anilreddy4438 <anilkumar190293@gmail.com>
+Date:   Thu Jan 14 15:49:11 2016 +0530
+
+    dashboard studentlogin
+
+[33mcommit 6944e5198c15450199fe9df7f780be9691654e53[m
+Author: anilreddy4438 <anilkumar190293@gmail.com>
+Date:   Thu Jan 14 13:21:41 2016 +0530
+
+    dashboard
+
+[33mcommit 5ce5887d718be3dd1f5c72ab0285153a45a1beb7[m
+Author: anilreddy4438 <anilkumar190293@gmail.com>
+Date:   Thu Jan 14 13:12:41 2016 +0530
+
+    index.html page created

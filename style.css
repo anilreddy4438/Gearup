@@ -7,6 +7,8 @@ body
     font-family: Roboto,sans-serif;
     font-size:14px;
     height: 100%;
+    padding:0   30px;
+    background: url('files/blurback.jpg');
 }
 a
 {
@@ -47,7 +49,7 @@ ul
 }
 .logo img
 {
-    max-width: 100px;
+    max-width: 70px;
 }
 .user-photo img
 {
@@ -74,7 +76,7 @@ ul
 }
 
 .dashboard-nav{
-    background-color: black;
+    background-color: #345  ;
     width: 210px;
     height: calc(100% - 70px);
 }
@@ -99,8 +101,14 @@ ul
 .header_tag{
     height: 62px;
     width: auto;
-    background-color: rgba(253, 255, 238, 0.91);
+    /*background-color: rgba(253, 255, 238, 0.91);*/
 padding-left: 15px;
     line-height: 62px;
 
+}
+.header_tag
+{
+    color:white;
+    font-weight:300;
+    font-size: 25px;
 }
