@@ -1,7 +1,12 @@
+*
+{
+    box-sizing: border-box;
+}
 body
 {
     font-family: Roboto,sans-serif;
     font-size:14px;
+    height: 100%;
 }
 a
 {
@@ -57,15 +62,45 @@ ul
 .dashboard-right .block
 {
     padding:15px;
+
 }
-.dashboard-right .block .name
-{
-    float:left;
-    width:200px;
-    font-weight:300;
+.dashboard-right{
+    width:calc(100% - 210px);
 }
 .dashboard-right .block .value
 {
     float:left;
-    width:200px;
+
+}
+
+.dashboard-nav{
+    background-color: black;
+    width: 210px;
+    height: calc(100% - 70px);
+}
+.left-tabs a:hover{
+    background-color: rgba(255, 255, 255, .2);
+    color: #fff;
+
+}
+.header-class{
+    height: 62px;
+}
+
+.photo-tab{
+    color: white;
+    padding: 15px;
+}
+.content-holder{
+    margin: 80px ;
+    width:350px;
+}
+
+.header_tag{
+    height: 62px;
+    width: auto;
+    background-color: rgba(253, 255, 238, 0.91);
+padding-left: 15px;
+    line-height: 62px;
+
 }
