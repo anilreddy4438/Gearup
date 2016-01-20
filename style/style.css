@@ -1,0 +1,47 @@
+.Login  {
+    width: 400px;
+    float: none;
+    margin: auto !important;
+    margin-top: -100px !important;
+}
+
+.studentlogin-header{
+    height: 250px;
+    background-color: #2196f3;
+}
+
+.studentregister-header{
+    height: 250px;
+    background-color: #2196f3;
+}
+
+.startuplogin-header{
+    height: 250px;
+    background-color: #f3cd62;
+}
+.trainingregister-header{
+    height: 250px;
+    background-color: #f3808d;
+}
+.startupregister-header{
+    height: 250px;
+    background-color: #f3cd62;
+}
+
+.Login-header  h4
+{
+    color:white;
+    margin-left: 43px;
+}
+.Register-header  h4
+{
+    color:white;
+    margin-left: 43px;
+}
+.traininglogin-header{
+    height: 250px;
+    background-color: #f3808d;
+}
+
+
+
